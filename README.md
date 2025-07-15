@@ -71,6 +71,14 @@ The Pizza Sales Analysis project examines sales performance, customer preference
 
 ---
 
+## 📊 Live Power BI Dashboard
+
+[![View Dashboard](./images/pizza-dashboard-preview.png)](https://mavenanalytics.io/project/28136)
+> 🔗 Click the image to view the full interactive dashboard
+
+
 ## 📽️ Project Presentation
+
+
 
 **Click Here**: [Project Presentation Link](https://drive.google.com/file/d/18rixzCxU6Um6JS7bCFrnBj_g9tZ7Gmn9/view)
